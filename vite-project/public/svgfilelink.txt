@@ -1,0 +1,4 @@
+link for svg for form = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT32zE1dJpwr669v2LDC0iF3yC638mvDnORdQ&s"
+
+
+link for svg for jokes generator = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnpmEfJ5Mfjzcd4z24vXWceup8zOJV45Ju2CTTyT7dKp1z3sY6mcP75zVPeS10fS6HzYQ&usqp=CAU"
