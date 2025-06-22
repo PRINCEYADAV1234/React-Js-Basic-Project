@@ -3,8 +3,8 @@ React Js Basic Project
 
 
 # List of Projects
-To Do List 
-Calculator
-Password Validator
-Random Jokes Generator Using Api
+To Do List  <br/>
+Calculator    <br/>
+Password Validator   <br/>
+Random Jokes Generator Using Api   <br/>
 Form Handling in React Without useform hook
